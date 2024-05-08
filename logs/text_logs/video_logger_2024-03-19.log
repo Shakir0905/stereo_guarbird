@@ -1,0 +1,28 @@
+2024-03-19 09:31:12 - INFO - Starting delete_old_archives for /home/ramazanov/stereo-guardbird/logs/videos with a threshold of 1 days.
+2024-03-19 09:31:12 - WARNING - Directory /home/ramazanov/stereo-guardbird/logs/videos does not exist.
+2024-03-19 10:03:41 - INFO - Starting delete_old_archives for /home/ramazanov/stereo-guardbird/logs/videos with a threshold of 1 days.
+2024-03-19 10:03:41 - WARNING - Directory /home/ramazanov/stereo-guardbird/logs/videos does not exist.
+2024-03-19 12:04:12 - INFO - Starting delete_old_archives for /home/ramazanov/stereo-guardbird/logs/videos with a threshold of 1 days.
+2024-03-19 12:04:12 - WARNING - Directory /home/ramazanov/stereo-guardbird/logs/videos does not exist.
+2024-03-19 12:13:11 - INFO - Starting delete_old_archives for /home/ramazanov/stereo-guardbird/logs/videos with a threshold of 1 days.
+2024-03-19 12:13:11 - WARNING - Directory /home/ramazanov/stereo-guardbird/logs/videos does not exist.
+2024-03-19 12:14:51 - INFO - Starting delete_old_archives for /home/ramazanov/stereo-guardbird/logs/videos_logs with a threshold of 1 days.
+2024-03-19 12:14:51 - INFO - Directory video_2024-03-19 retained, as it is newer than the cutoff date.
+2024-03-19 12:14:51 - INFO - Directory video_2024-03-15 deleted.
+2024-03-19 12:14:51 - INFO - Directory video_2024-03-14 deleted.
+2024-03-19 14:16:44 - INFO - Starting delete_old_archives for /home/ramazanov/stereo-guardbird/logs/videos_logs with a threshold of 1 days.
+2024-03-19 14:16:44 - INFO - Directory video_2024-03-19 retained, as it is newer than the cutoff date.
+2024-03-19 14:45:27 - INFO - Starting delete_old_archives for /home/ramazanov/stereo-guardbird/logs/videos_logs with a threshold of 1 days.
+2024-03-19 14:45:27 - INFO - Directory video_2024-03-19 retained, as it is newer than the cutoff date.
+2024-03-19 14:57:25 - INFO - Starting delete_old_archives for /home/ramazanov/stereo-guardbird/logs/videos_logs with a threshold of 1 days.
+2024-03-19 14:57:25 - INFO - Directory video_2024-03-19 retained, as it is newer than the cutoff date.
+2024-03-19 14:57:55 - INFO - Starting delete_old_archives for /home/ramazanov/stereo-guardbird/logs/videos_logs with a threshold of 1 days.
+2024-03-19 14:57:55 - INFO - Directory video_2024-03-19 retained, as it is newer than the cutoff date.
+2024-03-19 15:12:56 - INFO - Starting delete_old_archives for /home/ramazanov/stereo-guardbird/logs/videos_logs with a threshold of 1 days.
+2024-03-19 15:12:56 - INFO - Directory video_2024-03-19 retained, as it is newer than the cutoff date.
+2024-03-19 15:13:12 - INFO - Starting delete_old_archives for /home/ramazanov/stereo-guardbird/logs/videos_logs with a threshold of 1 days.
+2024-03-19 15:13:12 - INFO - Directory video_2024-03-19 retained, as it is newer than the cutoff date.
+2024-03-19 15:45:51 - INFO - Starting delete_old_archives for /home/ramazanov/stereo-guardbird/logs/videos_logs with a threshold of 1 days.
+2024-03-19 15:45:51 - INFO - Directory video_2024-03-19 retained, as it is newer than the cutoff date.
+2024-03-19 16:08:54 - INFO - Starting delete_old_archives for /home/ramazanov/stereo-guardbird/logs/videos_logs with a threshold of 1 days.
+2024-03-19 16:08:54 - INFO - Directory video_2024-03-19 retained, as it is newer than the cutoff date.

@@ -1,0 +1,6 @@
+2024-04-19 09:13:41 - INFO - Starting to delete old archives for /home/ramazanov/stereo-guardbird/logs/videos_logs with a threshold of 3 days.
+2024-04-19 09:13:41 - INFO - Directory video_2024-04-19 retained, as it is newer than the cutoff date.
+2024-04-19 09:13:41 - INFO - Directory video_2024-04-17 retained, as it is newer than the cutoff date.
+2024-04-19 09:13:41 - INFO - Directory video_2024-04-16 retained, as it is newer than the cutoff date.
+2024-04-19 09:13:41 - INFO - Directory video_2024-04-18 retained, as it is newer than the cutoff date.
+2024-04-19 09:13:41 - INFO - Video recording stopped and archived.
